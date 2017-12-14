@@ -29,7 +29,7 @@ yaourt -S ttf-consolas-with-yahei
 
 Other User:
 
-Go to the [Release Paged](https://github.com/edward-p/Consolas-with-Yahei/releases) to Donwload the latest Release with `tar.xz` packaged.
+Go to the [Release Page](https://github.com/edward-p/Consolas-with-Yahei/releases) to Donwload the latest Release with `tar.xz` packaged.
 
 Additonal Tips:
 ---
