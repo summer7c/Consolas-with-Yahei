@@ -18,6 +18,19 @@ Screen Shots:
 
 ![image](https://github.com/edward-p/Consolas-with-Yahei/raw/master/Screenshots/md.png "Markdown")
 
+Installation
+---
+
+For Arch Linux user, install from AUR:
+
+```bash
+yaourt -S ttf-consolas-with-yahei
+```
+
+Other User:
+
+Go to the [Release Paged](https://github.com/edward-p/Consolas-with-Yahei/releases) to Donwload the latest Release with `tar.xz` packaged.
+
 Additonal Tips:
 ---
 Created by FontCreator
