@@ -23,9 +23,16 @@ Installation
 
 For Arch Linux user, install from AUR:
 
+Install Normal Version
 ```bash
 yaourt -S ttf-consolas-with-yahei
 ```
+
+Install Powerline patched Version [crvdgc/Consolas-with-Yahei](https://github.com/crvdgc/Consolas-with-Yahei)
+```bash
+yaourt -S ttf-consolas-with-yahei-powerline-git
+```
+__PS: the font face of powerline patched version is called "Consolas Nerd Font"__
 
 Other User:
 
