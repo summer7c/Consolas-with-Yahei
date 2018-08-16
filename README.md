@@ -25,12 +25,12 @@ For Arch Linux user, install from AUR:
 
 Install Normal Version
 ```bash
-yaourt -S ttf-consolas-with-yahei
+aurman -S ttf-consolas-with-yahei
 ```
 
 Install Powerline patched Version [crvdgc/Consolas-with-Yahei](https://github.com/crvdgc/Consolas-with-Yahei)
 ```bash
-yaourt -S ttf-consolas-with-yahei-powerline-git
+aurman -S ttf-consolas-with-yahei-powerline-git
 ```
 __PS: the font face of powerline patched version is also called "Consolas-with-Yahei", you can't install both of the two packages, they are in conflict with each other. (yaourt will handle it)__
 
