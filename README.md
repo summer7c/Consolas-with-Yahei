@@ -14,9 +14,15 @@ This font is called "Consolas-with-Yahei" (Keep all original characters of Conso
 Screen Shots:
 ---
 
+<details><summary>CLICK TO SHOW</summary>
+<p>
+
 ![image](https://github.com/edward-p/Consolas-with-Yahei/raw/master/Screenshots/js.png "Javascript")
 
 ![image](https://github.com/edward-p/Consolas-with-Yahei/raw/master/Screenshots/md.png "Markdown")
+
+</p>
+</details>
 
 Installation
 ---
@@ -37,7 +43,3 @@ __p.s. the font face of powerline patched version is also called "Consolas-with-
 Other User:
 
 Go to the [Release Page](https://github.com/edward-p/Consolas-with-Yahei/releases) to Donwload the latest Release with `tar.xz` packaged.
-
-Additonal Tips:
----
-Created by FontCreator
